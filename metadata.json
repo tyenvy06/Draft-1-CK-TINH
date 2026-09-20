@@ -1,0 +1,6 @@
+{
+  "name": "TripTailor",
+  "description": "Personalized trip planner for young travelers generating custom daily itineraries based on your style, budget, and pace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
